@@ -4,6 +4,7 @@ A trained Transformer that plays 6-max No Limit Texas Hold'em.
 Describe any hand and it tells you what to do: **fold, check/call, bet, or raise** — plus a bet size.
 
 ---
+![alt text](image.png)
 
 ## Setup
 
